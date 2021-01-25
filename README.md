@@ -1,2 +1,2 @@
-# suricata
+# SQUID
 SQUID para GNS3
